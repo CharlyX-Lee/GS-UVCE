@@ -25,6 +25,9 @@ Abstract:
 </p>
 <br>
 
+## Acknowledgements
+This work was supported in part by the National Natural Science Foundation of China under Grant U22B2041, and the Natural Science Foundation of Liaoning Province, China (No. 2024-BSLH-004).
+
 ## Citation
 If you find our code or paper useful, please cite:
 ```bibtex
