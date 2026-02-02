@@ -24,3 +24,9 @@ Abstract:
   Underwater 3D scene reconstruction is critical for the operation of underwater robotics, yet remains highly challenging due to the semi-transparent water medium, which introduces optical distortions, light scattering, and severe visibility degradation. Therefore, effective underwater image enhancement is a prerequisite for reliable reconstruction. However, existing approaches typically enhance individual views with pre-trained models before reconstruction, leading to poor generalization and inconsistent multi-view results. To address these limitations, we propose GS-UVCE, an end-to-end framework for Gaussian Splatting-driven Unsupervised Visual Consistency Enhancement. GS-UVCE incorporates a Medium-MLP to model water-medium effects and a Light-MLP to adaptively correct illumination, ensuring illumination consistency. Furthermore, depth regularization is introduced to preserve geometric consistency under varying scene conditions. Extensive experiments on multiple underwater datasets show that GS-UVCE consistently outperforms SOTA methods, achieving superior reconstruction fidelity and visual consistency enhancement.
 </p>
 <br>
+
+## Citation
+If you find our code or paper useful, please cite:
+```bibtex
+
+```
