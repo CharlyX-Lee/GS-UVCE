@@ -1,6 +1,6 @@
 <p align="center">
     <h1>
-        <span class="title-main"><span>GS-UVCE</span></span>
+        <span class="title-main"><span>GS-UVCE:</span></span>
         <span class="title-small">Gaussian Splatting-Driven Unsupervised Visual Consistency
 Enhancement for Underwater 3D Scene Reconstruction</span>
       </h1>
