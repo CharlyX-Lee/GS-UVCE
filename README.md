@@ -11,7 +11,7 @@ Enhancement for Underwater 3D Scene Reconstruction</span>
     ·
     Yiming Xu</a>
     ·
-    <a href="https://scholar.google.com/citations?user=y8Z43QcAAAAJ&hl=en&oi=ao/">Alexandre Elsig</a>
+    <a href="https://scholar.google.com/citations?user=y8Z43QcAAAAJ&hl=en&oi=ao/">Yan Zhuang</a>
   </p><p align="center">
     <b><i>ICRA 2026</i></b>
   </p>
