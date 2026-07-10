@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use GS-UVCE, please cite the ICRA 2026 paper."
+title: "GS-UVCE: Gaussian Splatting-Driven Unsupervised Visual Consistency Enhancement for Underwater 3D Scene Reconstruction"
+authors:
+  - family-names: Li
+    given-names: Xiang
+  - family-names: Li
+    given-names: Chi
+  - family-names: Xu
+    given-names: Yiming
+  - family-names: Zhuang
+    given-names: Yan
+date-released: 2026-06-01
+preferred-citation:
+  type: conference-paper
+  title: "GS-UVCE: Gaussian Splatting-Driven Unsupervised Visual Consistency Enhancement for Underwater 3D Scene Reconstruction"
+  authors:
+    - family-names: Li
+      given-names: Xiang
+    - family-names: Li
+      given-names: Chi
+    - family-names: Xu
+      given-names: Yiming
+    - family-names: Zhuang
+      given-names: Yan
+  conference: "2026 IEEE International Conference on Robotics and Automation (ICRA)"
+  pages: "4928-4935"
+  year: 2026
