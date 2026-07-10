@@ -23,7 +23,6 @@
   <sup>3</sup>International School of Information Science and Engineering, Dalian University of Technology<br />
   <sup>4</sup>School of Control Science and Engineering, Dalian University of Technology
 </p>
-
 <p><sup>*</sup>Corresponding author</p>
 
 <p>
