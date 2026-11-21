@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/CharlyX-Lee"><strong>Xiang Li</strong></a><sup>1</sup>
+  <a href="https://charlyx-lee.github.io/"><strong>Xiang Li</strong></a><sup>1</sup>
   &nbsp;&nbsp; Chi Li<sup>2</sup>
   &nbsp;&nbsp; Yiming Xu<sup>3</sup>
   &nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=y8Z43QcAAAAJ&hl=en&oi=ao"><strong>Yan Zhuang</strong></a><sup>4*</sup>
