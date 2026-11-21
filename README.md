@@ -78,12 +78,13 @@ If you find this work useful, please cite:
 
 ```bibtex
 @inproceedings{li2026gsuvce,
-  title        = {GS-UVCE: Gaussian Splatting-Driven Unsupervised Visual Consistency Enhancement for Underwater 3D Scene Reconstruction},
+  title        = {{GS-UVCE}: Gaussian Splatting-Driven Unsupervised Visual Consistency Enhancement for Underwater 3D Scene Reconstruction},
   author       = {Li, Xiang and Li, Chi and Xu, Yiming and Zhuang, Yan},
   booktitle    = {2026 IEEE International Conference on Robotics and Automation (ICRA)},
-  pages        = {4928--4935},
+  pages        = {4920--4927},
   year         = {2026},
-  organization = {IEEE}
+  publisher    = {IEEE},
+  doi          = {10.1109/ICRA57385.2026.11696993}
 }
 ```
 

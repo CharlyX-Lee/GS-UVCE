@@ -23,6 +23,10 @@ preferred-citation:
       given-names: Yiming
     - family-names: Zhuang
       given-names: Yan
-  conference: "2026 IEEE International Conference on Robotics and Automation (ICRA)"
-  pages: "4928-4935"
+  collection-title: "2026 IEEE International Conference on Robotics and Automation (ICRA)"
+  publisher:
+    name: IEEE
+  start: 4920
+  end: 4927
+  doi: "10.1109/ICRA57385.2026.11696993"
   year: 2026
